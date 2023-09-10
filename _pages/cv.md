@@ -37,7 +37,7 @@ Skills
   
 Service and leadership
 ======
-* Assistant mentor at the museum of flight, Seattle,WA
+* Assistant mentor at the museum of flight, Seattle, WA
 * K-12 education outreach counselor, Daytona Beach, FL
 * Wildlife monitoring in Mukilteo, WA
 * Campus community farm work parties, Edmonds, WA
