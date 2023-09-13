@@ -33,5 +33,3 @@ Skills
 * Language
   * Mandarin (native)
   * English (fluent)
-
-  
