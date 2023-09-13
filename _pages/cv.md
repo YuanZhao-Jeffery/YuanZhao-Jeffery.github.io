@@ -12,6 +12,10 @@ redirect_from:
 Work experience
 ======
 * Graduate teaching assistant, Embry-Riddle Aeronautical University, 1.2020-12.2021.
+  * Experimental Aerodynamics Lab (Wind Tunnel Test)
+  * Aero/Space engineering Materials
+  * Aero/Space Structures Instrument Lab (Structures/Stress Test)
+  * Aircraft Preliminary Design
 
 
 Education
