@@ -5,10 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 Table of content
-- [Influence of wing planform shape on the effectiveness of a fixed-slot](#Influence-of-wing-planform-shape-on-the-effectiveness-of-a-fixed-slot)
-- [CFD analysis of inviscid flow over bump](#CFD-analysis-of-inviscid-flow-over-bump)
-- [Aerodynamics analysis of Airbus A320](#Aerodynamics-analysis-of-Airbus-A320)
-- [Unconventional Design: Flying blended wing body](#Unconventional-Design:-Flying-blended=wing-body)
+- [Influence of wing planform shape on the effectiveness of a fixed-slot](#influence-of-wing-planform-shape-on-the-effectiveness-of-a-fixed-slot)
+- [CFD analysis of inviscid flow over bump](#cfd-analysis-of-inviscid-flow-over-bump)
+- [Aerodynamics analysis of Airbus A320](#aerodynamics-analysis-of-airbus-a320)
+- [Unconventional Design: Flying blended wing body](#unconventional-design-flying-blended-wing-body)
 - [Aircraft Detailed Design: Canard analysis](#aircraft-detailed-design-canard-analysis)
 - [Aircraft Preliminary Design: Business jet](#aircraft-preliminary-design-business-jet)
 
