@@ -22,7 +22,7 @@ Work experience
 
 Education
 ======
-* PhD in Aerospace Engineering, Iowa State University 
+* PhD in Aerospace Engineering, Iowa State University, 2028
 * M.S. in Aerospace Engineering, Embry-Riddle Aeronautical University, 2022
 * B.S. in Aerospace Engineering, Embry-Riddle Aeronautical University, 2019
   
