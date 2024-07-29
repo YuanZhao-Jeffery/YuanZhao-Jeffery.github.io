@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 My name is Yuan Zhao.
+
+I am currently an Aerospace Engineeing PhD student with [Dr. Hui Hu](https://www.aere.iastate.edu/~huhui/members.html) in [Iowa State University](https://www.iastate.edu/) in Ames, IA, USA. My research field is experimental aerodynamics such as flow visualization related to aircraft icing.
+
 I graduated from [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/) in Daytona Beach, FL, USA with a master's degree in aerospace engineering focusing on aerodynamics.
 
 Throughout my academic journey, I undertook numerous projects centered around aircraft design and analysis, including both preliminary and detailed design phases. Utilizing CATIA V5, I successfully generated intricate aircraft components such as wings and fuselage, and further conducted structural and aerodynamic analyses to validate the design's integrity. During my master’s program, I made many 3-D wing models to research the effect of fixed-slot on wing performance, which provided me with practical experience.

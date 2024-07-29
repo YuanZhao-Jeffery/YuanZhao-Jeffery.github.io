@@ -6,11 +6,14 @@ author_profile: true
 ---
 
 Table of content
+- [Undergraduate Aerodynamics and Propulsion Laboratory (AerE 344, Iowa State University)](#undergraduate-aerodynamics-and-propulsion-laboratory-aere-344-iowa-state-university)
 - [Experimental Aerodynamics Lab (Wind Tunnel Test)](#experimental-aerodynamics-lab-wind-tunnel-test)
 - [Aero/Space engineering Materials](#aerospace-engineering-materials)
 - [Aero/Space Structures Instrument Lab (Structures/Stress Test)](#aerospace-structures-instrument-lab-structuresstress-test)
 - [Aircraft Preliminary Design (Teaching assistant)](#aircraft-preliminary-design-teaching-assistant)
 
+# Undergraduate Aerodynamics and Propulsion Laboratory (AerE 344, Iowa State University)
+The course is designed to help student understand the applications of the fundamental principles in aerodynamics, to know the basic knowledge related to experimental aerodynamics and measurements techniques, and to know how to design, conduct experiments, and analyze experimental data.
 
 # Experimental Aerodynamics Lab (Wind Tunnel Test)
 This laboratory consists of a sequence of experiments that demonstrate basic aerodynamic theory while developing skills in the use of classic and modern experimental apparatus, the practice of good experimental technique, and the writing of experimental reports. Specific experiments depend on apparatus availability and instructor preference. 

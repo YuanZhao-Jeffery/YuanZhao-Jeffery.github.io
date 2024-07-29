@@ -11,6 +11,8 @@ redirect_from:
 
 Work experience
 ======
+* Graduate teaching assistant, Iowa State University
+  * Undergraduate Aerodynamics and Propulsion Laboratory (AER E 344)
 * Graduate teaching assistant, Embry-Riddle Aeronautical University, 1.2020-12.2021.
   * Experimental Aerodynamics Lab (Wind Tunnel Test)
   * Aero/Space engineering Materials
@@ -22,6 +24,7 @@ Education
 ======
 * M.S. in Aerospace Engineering, Embry-Riddle Aeronautical University, 2022
 * B.S. in Aerospace Engineering, Embry-Riddle Aeronautical University, 2019
+* PhD in Aerospace Engineering, Iowa State University 
   
 Skills
 ======
