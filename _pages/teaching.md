@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Table of content
-- [Undergraduate Aerodynamics and Propulsion Laboratory (AerE 344, Iowa State University)](#undergraduate-aerodynamics-and-propulsion-laboratory-aere-344-iowa-state-university)
+- [Undergraduate Aerodynamics and Propulsion Laboratory (AERE 3440, Iowa State University)](#undergraduate-aerodynamics-and-propulsion-laboratory-aere-344-iowa-state-university)
 - [Experimental Aerodynamics Lab (Wind Tunnel Test)](#experimental-aerodynamics-lab-wind-tunnel-test)
 - [Aero/Space engineering Materials](#aerospace-engineering-materials)
 - [Aero/Space Structures Instrument Lab (Structures/Stress Test)](#aerospace-structures-instrument-lab-structuresstress-test)

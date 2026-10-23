@@ -5,6 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 Table of content
+- [An Experimental Study on Dynamic Droplet Impinging, Runback, and Icing Processes on Frozen-Cold Airfoil Surfaces](#an-experimental-study-on-dynamic-droplet-impinging-runback-and-icing-processes-on-frozen-cold-airfoil-surfaces)
+- [Unsteady Thermal Transport Characteristics of Wind-Driven Water Droplet and Rivulet over Rough Surfaces](#unsteady-thermal-transport-characteristics-of-wind-driven-water-droplet-and-rivulet-over-rough-surfaces)
+- [Effects of Surface Wettability on Dynamic Freezing and Ice Growth of Runback Water Droplets on Cold Surfaces](#effects-of-surface-wettability-on-dynamic-freezing-and-ice-growth-of-runback-water-droplets-on-cold-surfaces)
+- [Transient Aerothermodynamic Behavior of Wind-Driven Water Droplets During Runback and Ice Accretion on Cold Surface](#transient-aerothermodynamic-behavior-of-wind-driven-water-droplets-during-runback-and-ice-accretion-on-cold-surface)
+- [Quantitative Characterization of Surface Water Droplet Dynamics Using Digital Image Projection and Particle Image Velocimetry](#quantitative-characterization-of-surface-water-droplet-dynamics-using-digital-image-projection-and-particle-image-velocimetry)
+
 - [Influence of wing planform shape on the effectiveness of a fixed-slot](#influence-of-wing-planform-shape-on-the-effectiveness-of-a-fixed-slot)
 - [CFD analysis of inviscid flow over bump](#cfd-analysis-of-inviscid-flow-over-bump)
 - [Aerodynamics analysis of Airbus A320](#aerodynamics-analysis-of-airbus-a320)
@@ -12,6 +18,44 @@ Table of content
 - [Aircraft Detailed Design: Canard analysis](#aircraft-detailed-design-canard-analysis)
 - [Aircraft Preliminary Design: Business jet](#aircraft-preliminary-design-business-jet)
 
+
+
+
+
+# An Experimental Study on Dynamic Droplet Impinging, Runback, and Icing Processes on Frozen-Cold Airfoil Surfaces
+The project examines the sequence from droplet impingement through surface transport to freezing and considers how the changing local aerodynamic environment affects water and ice development.
+
+<img src="../images/Drop_Setup.png" width="200" height="150">
+
+<img src="../images/Air_drop_splash.gif" width="200" height="150">
+<img src="../images/Air_drop_impinge.gif" width="200" height="150">
+
+
+# Unsteady Thermal Transport Characteristics of Wind-Driven Water Droplet and Rivulet over Rough Surfaces
+The study investigates how surface topography modifies water redistribution and thermal behavior. The experiments examines the relationships among roughness, local water accumulation, airflow disturbance, and temperature evolution.
+
+<img src="../images/roughDIP.gif" width="200" height="150">
+<img src="../images/roughPIV.gif" width="200" height="150">
+<img src="../images/roughIR.gif" width="200" height="150">
+
+# Effects of Surface Wettability on Dynamic Freezing and Ice Growth of Runback Water Droplets on Cold Surfaces
+This project examines how wetting behavior influences the coupled hydrodynamic and thermal response. It considers liquid retention, contact-line mobility, freezing development, and ice growth on surfaces with different wettability.
+
+<img src="../images/Enamel.gif" width="200" height="150">
+<img src="../images/SHS.gif" width="200" height="150">
+
+
+# Transient Aerothermodynamic Behavior of Wind-Driven Water Droplets During Runback and Ice Accretion on Cold Surface
+The experiment relates droplet motion and geometry to the temperature histories measured using IR thermography and plate thermocouples. It examines the interaction between runback, cooling, and freezing, including the competition between liquid residence time and solidification.
+<img src="../images/neg15DIP.gif" width="200" height="150">
+<img src="../images/neg15PIV.gif" width="200" height="150">
+<img src="../images/neg15IR.gif" width="200" height="150">
+
+# Quantitative Characterization of Surface Water Droplet Dynamics Using Digital Image Projection and Particle Image Velocimetry
+This project establishes the nonfreezing hydrodynamic baseline. DIP is used to quantify droplet surface geometry and its temporal evolution, while PIV characterizes the surrounding airflow in a selected plane. The experiment examines droplet deformation, contact-line motion, and downstream transport as the foundation for fundamental icing study.
+
+<img src="../images/RoomDIP.gif" width="200" height="150">
+<img src="../images/RoomPIV.gif" width="200" height="150">
 
 # Influence of wing planform shape on the effectiveness of a fixed-slot
 Determine the Impact of Fixed Slot Span, Taper Ratio, Washout, and Sweep on Clark-Y Wings with an Aspect Ratio of 6 at a Reynolds Number of 609,000.
