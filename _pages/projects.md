@@ -47,6 +47,7 @@ This project examines how wetting behavior influences the coupled hydrodynamic a
 
 # Transient Aerothermodynamic Behavior of Wind-Driven Water Droplets During Runback and Ice Accretion on Cold Surface
 The experiment relates droplet motion and geometry to the temperature histories measured using IR thermography and plate thermocouples. It examines the interaction between runback, cooling, and freezing, including the competition between liquid residence time and solidification.
+
 <img src="../images/neg15DIP.gif" width="200" height="150">
 <img src="../images/neg15PIV.gif" width="200" height="150">
 <img src="../images/neg15IR.gif" width="200" height="150">
