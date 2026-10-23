@@ -8,12 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yuan Zhao.
-
-I am currently an Aerospace Engineeing PhD student with [Dr. Hui Hu](https://www.aere.iastate.edu/~huhui/members.html) in [Iowa State University](https://www.iastate.edu/) in Ames, IA, USA. My research field is experimental aerodynamics such as flow visualization related to aircraft icing.
-
-I graduated from [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu/) in Daytona Beach, FL, USA with a master's degree in aerospace engineering focusing on aerodynamics.
-
-Throughout my academic journey, I undertook numerous projects centered around aircraft design and analysis, including both preliminary and detailed design phases. Utilizing CATIA V5, I successfully generated intricate aircraft components such as wings and fuselage, and further conducted structural and aerodynamic analyses to validate the design's integrity. During my master’s program, I made many 3-D wing models to research the effect of fixed-slot on wing performance, which provided me with practical experience.
-
-As a recent graduate, I am eager to transition my academic prowess into practical experience within the aerospace industry. While the journey to secure my first opportunity has been challenging, my unwavering determination propels me forward. My genuine passion for aviation fuels my relentless pursuit of opportunities. I am excited about the possibility of contributing my skills and dedication to the aerospace industry.
+I am a Ph.D. canidate at Iowa State University specializing in fluid mechanics, heat transfer, and aircraft icing. My research investigates the transient dynamics, heat transfer, and freezing of wind-driven water droplets and rivulet flows on cold surfaces, with the goal of advancing our understanding of ice accretion and icing mitigation. I combine experimental techniques—including high-speed imaging, Digital Image Projection (DIP), Particle Image Velocimetry (PIV), and infrared thermography—with quantitative data analysis using MATLAB and Python to investigate complex fluid and thermal phenomena. Beyond my core research, I am interested in data-driven modeling and machine learning for engineering applications. I am passionate about applying scientific knowledge and experimental insights to solve practical engineering problems, develop innovative solutions, and bridge the gap between fundamental research and real-world applications.
